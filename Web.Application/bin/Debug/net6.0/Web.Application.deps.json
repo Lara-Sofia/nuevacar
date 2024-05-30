@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Web.Application/1.0.0": {
+        "dependencies": {
+          "Web.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Web.Application.dll": {}
+        }
+      },
+      "Web.Domain/1.0.0": {
+        "runtime": {
+          "Web.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Web.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Web.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

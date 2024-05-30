@@ -1,0 +1,17 @@
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\bin\Debug\net6.0\Web.Infraestructure.deps.json
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\bin\Debug\net6.0\Web.Infraestructure.dll
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\bin\Debug\net6.0\Web.Infraestructure.pdb
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\bin\Debug\net6.0\Web.Application.dll
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\bin\Debug\net6.0\Web.Domain.dll
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\bin\Debug\net6.0\Web.Application.pdb
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\bin\Debug\net6.0\Web.Domain.pdb
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\obj\Debug\net6.0\Web.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\obj\Debug\net6.0\Web.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\obj\Debug\net6.0\Web.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\obj\Debug\net6.0\Web.Infraestructure.AssemblyInfo.cs
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\obj\Debug\net6.0\Web.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\obj\Debug\net6.0\Web.Infr.C5B35427.Up2Date
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\obj\Debug\net6.0\Web.Infraestructure.dll
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\obj\Debug\net6.0\refint\Web.Infraestructure.dll
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\obj\Debug\net6.0\Web.Infraestructure.pdb
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Infraestructure\obj\Debug\net6.0\ref\Web.Infraestructure.dll

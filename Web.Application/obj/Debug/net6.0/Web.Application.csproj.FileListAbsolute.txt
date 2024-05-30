@@ -1,0 +1,15 @@
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Application\bin\Debug\net6.0\Web.Application.deps.json
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Application\bin\Debug\net6.0\Web.Application.dll
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Application\bin\Debug\net6.0\Web.Application.pdb
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Application\bin\Debug\net6.0\Web.Domain.dll
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Application\bin\Debug\net6.0\Web.Domain.pdb
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Application\obj\Debug\net6.0\Web.Application.csproj.AssemblyReference.cache
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Application\obj\Debug\net6.0\Web.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Application\obj\Debug\net6.0\Web.Application.AssemblyInfoInputs.cache
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Application\obj\Debug\net6.0\Web.Application.AssemblyInfo.cs
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Application\obj\Debug\net6.0\Web.Application.csproj.CoreCompileInputs.cache
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Application\obj\Debug\net6.0\Web.Appl.6218106C.Up2Date
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Application\obj\Debug\net6.0\Web.Application.dll
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Application\obj\Debug\net6.0\refint\Web.Application.dll
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Application\obj\Debug\net6.0\Web.Application.pdb
+C:\Users\Larata\Documents\Visual Studio Code\3\Web.Application\obj\Debug\net6.0\ref\Web.Application.dll
